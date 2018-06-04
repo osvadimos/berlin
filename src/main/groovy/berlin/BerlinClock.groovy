@@ -17,6 +17,11 @@ class BerlinClock {
         this.bottomMinuteBar = new LightBar(4, 1)
     }
 
+    /**
+     *
+     * @param Date date
+     *      Coverting actual time to Berlin Clock display
+     */
     void convertTime(Date date) {
         this.date = date
         Calendar calendar = Calendar.getInstance()

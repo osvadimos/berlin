@@ -1,6 +1,8 @@
 package berlin
 
-
+/**
+ *  Light bar is an abstraction for Berlin Clock
+ */
 class LightBar {
 
     int numberOfLights
