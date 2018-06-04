@@ -1,4 +1,4 @@
-package berlin
+package berlin.test
 
 class UrlMappings {
 

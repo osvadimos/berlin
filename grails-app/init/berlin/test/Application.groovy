@@ -1,4 +1,4 @@
-package berlin
+package berlin.test
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
